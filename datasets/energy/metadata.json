@@ -1,0 +1,14 @@
+{
+  "name": "Hourly Electricity Consumption - Synthetic Sample",
+  "description": "Conjunto de datos sintético que representa el consumo eléctrico horario de un punto de suministro (CUPS) en España. Útil para pruebas, integraciones con Ocean Protocol o computación descentralizada.",
+  "author": "Jaume Juan Pérez - ZertiPower",
+  "license": "CC-BY-4.0",
+  "created": "2025-07-30T12:00:00Z",
+  "type": "dataset",
+  "file_url": "https://raw.githubusercontent.com/jaumejp/web3-dataspace-assets/main/datasets/energy/energy-hourly.csv",
+  "file_format": "csv",
+  "tags": ["energy", "electricity", "hourly", "synthetic", "web3", "ocean-protocol"],
+  "data_origin": "Synthetic data generated for testing purposes",
+  "access": "public",
+  "web3_ready": true
+}

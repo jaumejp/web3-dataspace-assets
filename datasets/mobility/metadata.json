@@ -1,0 +1,14 @@
+{
+  "name": "GPS Traces of Urban Vehicle - Synthetic Sample",
+  "description": "Datos de localización GPS simulados para un vehículo en un entorno urbano (Barcelona). Útiles para pruebas de movilidad inteligente, visualización o flujos de datos IoT en espacios de datos Web3.",
+  "author": "Jaume Juan Pérez - Zerti Mobility Lab",
+  "license": "CC-BY-4.0",
+  "created": "2025-07-30T12:00:00Z",
+  "type": "dataset",
+  "file_url": "https://raw.githubusercontent.com/jaumejp/web3-dataspace-assets/main/datasets/mobility/gps-traces.csv",
+  "file_format": "csv",
+  "tags": ["mobility", "gps", "synthetic", "web3", "ocean-protocol", "urban"],
+  "data_origin": "Synthetic data generated for testing and integration purposes",
+  "access": "public",
+  "web3_ready": true
+}

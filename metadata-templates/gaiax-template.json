@@ -1,0 +1,32 @@
+{
+  "@context": [
+    "https://w3id.org/gaia-x/core/context/v1"
+  ],
+  "@type": "gx:DataAsset",
+  "gx:providedBy": {
+    "@type": "gx:Participant",
+    "gx:legalName": "ZertiPower",
+    "gx:legalRegistrationNumber": "ZERTI-0001",
+    "gx:headquarterAddress": {
+      "gx:country": "ES",
+      "gx:region": "Cataluña",
+      "gx:locality": "Barcelona"
+    },
+    "gx:legalRepresentative": {
+      "gx:name": "Jaume Juan Pérez",
+      "gx:email": "info@zertipower.com"
+    }
+  },
+  "gx:dataOffering": {
+    "gx:title": "Hourly Electricity Consumption - Synthetic Sample",
+    "gx:description": "Conjunto de datos sintético para consumo eléctrico horario, compatible con ecosistemas Gaia-X.",
+    "gx:license": "https://creativecommons.org/licenses/by/4.0/",
+    "gx:keywords": ["energía", "eléctrico", "synthetic", "web3", "Gaia-X"],
+    "gx:termsAndConditions": "https://zertipower.com/terms",
+    "gx:dataAccess": {
+      "gx:accessUrl": "https://raw.githubusercontent.com/TU_USUARIO_GITHUB/web3-dataspace-assets/main/datasets/energy/energy-hourly.csv",
+      "gx:mediaType": "text/csv",
+      "gx:accessService": "DirectDownload"
+    }
+  }
+}

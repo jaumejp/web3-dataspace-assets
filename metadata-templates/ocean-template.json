@@ -1,0 +1,21 @@
+{
+  "main": {
+    "type": "dataset",
+    "name": "YOUR_DATASET_NAME",
+    "author": "YOUR_NAME_OR_ORGANIZATION",
+    "license": "CC-BY-4.0",
+    "files": [
+      {
+        "url": "https://your-url.com/data.csv",
+        "contentType": "text/csv"
+      }
+    ]
+  },
+  "additionalInformation": {
+    "description": "Brief description of the dataset and intended use.",
+    "tags": ["web3", "data", "ocean"],
+    "categories": ["Energy", "Synthetic"],
+    "updateFrequency": "One-time",
+    "structuredMarkup": []
+  }
+}
